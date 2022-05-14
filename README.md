@@ -1,4 +1,9 @@
-# egrocery
+# eGrocery
+
+> Screenshot of layout
+
+![Screenshot](./public/egrocery-screenshot.png)
+
 
 ## Project setup
 ```
